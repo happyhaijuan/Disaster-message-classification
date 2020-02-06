@@ -7,7 +7,7 @@ The project contains three parts:
    
      data  
      
-        `disaster_categories.csv`          # Dataset including all the categories  
+        ` disaster_categories.csv          # Dataset including all the categories  
         ` disaster_messages.csv            # Dataset including all the messages
         ` process_data.py                  # Data cleaning
        
