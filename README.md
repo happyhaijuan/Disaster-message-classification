@@ -5,10 +5,12 @@ Buiding a web app based on the disaster data from FigureEight to classify disast
 The project contains three parts:
 1. An ETL pipeline to load csv files, transform and clean data and load to a sql database.
    
-     |-data                   
-       ├── disaster_categories.csv          # Dataset including all the categories  
-       ├── disaster_messages.csv            # Dataset including all the messages
-       └── process_data.py                  # Data cleaning
+     data                   
+        disaster_categories.csv          # Dataset including all the categories  
+        disaster_messages.csv            # Dataset including all the messages
+        process_data.py                  # Data cleaning
+       
+       
 2. A Machine learning pipeline to build model, train model, evaluate model   
     
  
@@ -23,21 +25,7 @@ The project contains three parts:
             ├── go.html                      # Classification result page of web app
             └── master.html                  # Main page of web app  
             
-            
-            
-            
-             .
-    ├── app     
-    │   ├── run.py                           # Flask file that runs app
-    │   └── templates   
-    │       ├── go.html                      # Classification result page of web app
-    │       └── master.html                  # Main page of web app    
-    ├── data                   
-    │   ├── disaster_categories.csv          # Dataset including all the categories  
-    │   ├── disaster_messages.csv            # Dataset including all the messages
-    │   └── process_data.py                  # Data cleaning
-    ├── models
-    │   └── train_classifier.py              # Train ML model   
+           
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
