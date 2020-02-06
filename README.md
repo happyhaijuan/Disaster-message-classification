@@ -14,7 +14,7 @@ The project contains three parts:
 2. A Machine learning pipeline to build model, train model, evaluate model   
     
       model
-      - train_classifier.py              #  build, trian, evaluate ML model       
+       - train_classifier.py              #  build, trian, evaluate ML model       
    
 3. A web app displays some visualisations for the data and predict categories for new messages    
             
