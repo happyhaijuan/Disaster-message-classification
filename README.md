@@ -9,7 +9,7 @@ The project contains three parts:
      
         ` disaster_categories.csv          # Dataset including all the categories  
         ` disaster_messages.csv            # Dataset including all the messages
-        `process_data.py                  # Data cleaning
+        ` process_data.py                  # Data cleaning
        
        
 2. A Machine learning pipeline to build model, train model, evaluate model   
