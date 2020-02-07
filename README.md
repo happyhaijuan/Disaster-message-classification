@@ -1,8 +1,8 @@
 # Disaster Response Pipeline Project
 ### Project Movitation:
-Implement a web app classify disaster messages from user by building a machine learing model. After disaster messages being classified, these classified messages could be sent to the appropriate disaster relief agency.
-The model is trained on a data set provided by Figure Eight containing real messages that were sent during disaster events, and the messages could have 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help, Search And Rescue, etc.
-This is a multi-label task, since a message can belong to one or more categories.
+- Implement a web app classify disaster messages from user by building a machine learing model. After disaster messages being classified, these classified messages could be sent to the appropriate disaster relief agency.
+- The model is trained on a data set provided by Figure Eight containing real messages that were sent during disaster events, and the messages could have 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help, Search And Rescue, etc.
+- This is a multi-label task, since a message can belong to one or more categories.
 
 ### Project Description:
 The project contains three parts:
